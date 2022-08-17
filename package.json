@@ -1,5 +1,5 @@
 {
-  "name": "ornamentum",
+  "name": "starter-pack",
   "version": "1.0.0",
   "description": "starter pack for node projects",
   "main": "server.js",
