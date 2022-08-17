@@ -13,11 +13,11 @@ How this app solves it (what this application does) ?
 Technologies used :
 
 **Backend :**
-- node
+- node (express, ejs)
 - ...
 
 **Frontend :**
-- html, css, js
+- html, css (scss), js
 - ...
 
 **Optional :** Why did I use *technologie name* ? **Repeat if needed**
