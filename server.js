@@ -18,6 +18,8 @@ app.use(express.json());
 
 /* <---- DELETE TO USE SESSION MIDDLEWARE
 
+const session = require('express-session')
+
 // Use session middleware
 const sessionMiddleware = session({
     secret: randomUUID(),
