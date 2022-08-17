@@ -2,9 +2,7 @@ require('dotenv').config();
 
 const express = require('express')
 const http = require('http')
-const session = require('express-session')
 const port = process.env.PORT
-const { randomUUID } = require('crypto');
 
 const app = express()
 const server = http.createServer(app)
